@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\asus-wh\desktop\数据结构\struct\struct\student.h(7): warning C4091: 'typedef ': ignored on left of 'Student' when no variable is declared
+  Struct.vcxproj -> C:\Users\asus-wh\Desktop\数据结构\Struct\Debug\Struct.exe
+  Struct.vcxproj -> C:\Users\asus-wh\Desktop\数据结构\Struct\Debug\Struct.pdb (Partial PDB)
